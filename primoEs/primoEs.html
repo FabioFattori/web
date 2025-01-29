@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primo Esercizio</title>
+</head>
+<body>
+    <main> 
+        <h1>Contatti</h1>
+        
+        <form action="#" method="post">
+            <fieldset>
+                <legend>Informazioni Anagrafiche</legend>
+                <label for="Nome">Nome</label>
+                <input name="Nome" type="text" placeholder="Nome" id="Nome"/>
+                <label for="Cognome">Cognome</label>
+                <input name="Cognome" type="text" placeholder="Cognome" id="Cognome"/>
+                <label for="CF">Codice Fiscale</label>
+                <input name="CF" type="text" placeholder="Codice Fiscale" id="CF"/>
+                <label for="DNascita">Data di Nascita</label>
+                <input name="DataNascita" type="date" placeholder="Data di Nascita" id="DNascita"/>
+                <label for="LN">Luogo di Nascita</label>
+                <input name="LuogoNascita" type="text" placeholder="Luogo di Nascita" id="LN"/>
+                <label for="Indirizzo">Indirizzo</label>
+                <input name="Indirizzo" type="text" placeholder="Indirizzo" id="Indirizzo"/>
+            </fieldset>
+            <fieldset>
+                <legend>Preferenze</legend>
+                <p>Assicurazione</p>
+                <label for="Primo">Primo Livello</label>
+                <input name="Assicurazione" type="radio" placeholder="Primo Livello" id="Primo"/>
+                <label for="Secondo">Secondo Livello</label>
+                <input name="Assicurazione" type="radio" placeholder="Secondo Livello" id="Secondo"/>
+                <label for="Terzo">Terzo Livello</label>
+                <input name="Assicurazione" type="radio" placeholder="Terzo Livello" id="Terzo"/>
+                <label for="mezzo">Mezzo Preferito</label>
+                <select name="Mezzo" id="mezzo">
+                    <option value="Automobile">Automobile</option>
+                    <option value="Moto">Moto</option>
+                    <option value="Bicicletta">Bicicletta</option>
+                    <option value="Monopattino">Monopattino</option>
+                </select>
+                <label for="munito">Automunito</label>
+                <input name="Automunito" type="checkbox" id="munito" />
+                <label for="desc">Descrizione</label>
+                <textarea name="descrizione" id="desc"></textarea>
+            </fieldset>
+            <input type="submit" >
+            <input type="reset">    
+                <!-- <button type="submit">
+                    Conferma
+                </button>
+                <button type="reset">
+                    Cancella
+                </button> -->
+        </form>
+    </main>
+</body>
+</html>

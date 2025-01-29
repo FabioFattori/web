@@ -1,0 +1,5 @@
+- Descrivere in che cosa consiste l’approccio Mobile First e quali sono i vantaggi della sua adozione.
+- Descrivere brevemente le principali novità introdotte da CSS3.
+- Descrivere le principali differenze tra gli approcci progressive enhancement e graceful degradation.
+- Descrivere tutte le tecniche/modalità/crismi, dal punto di vista della sicurezza, in modo che la trasmissione di dati sensibili dal browser al server sia "sicura".
+- 

@@ -1,0 +1,53 @@
+body{
+    font-family: Arial;
+    font-size: 100%;
+}
+
+header{
+    color: darkgreen;
+    background-color: lightgreen;
+    border: 2px dotted darkgreen;
+    width: 100%;
+    box-shadow: 6px 5px 5px 0px gray;
+    margin-bottom: 15px;
+    height: 84px;
+}
+
+header > h1{
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+nav{
+    float: right;
+    width: 20%;
+    background-color: lightgreen;
+    border: 2px dotted darkgreen;
+    box-shadow: 6px 5px 5px 0px gray;
+}
+
+section{
+    float: left;
+    width: 75%;
+    padding-right: 10px;
+}
+
+footer{
+    height: 84px;
+    clear: both;
+    width: 100%;
+    color: black;
+    background-color: lightgreen;
+    border: 2px dotted darkgreen;
+    box-shadow: 6px 5px 5px 0px gray;
+}
+
+footer > p{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+}
