@@ -1,5 +1,13 @@
 - Descrivere in che cosa consiste l’approccio Mobile First e quali sono i vantaggi della sua adozione.
 - Descrivere brevemente le principali novità introdotte da CSS3.
-- Descrivere le principali differenze tra gli approcci progressive enhancement e graceful degradation.
+- Descrivere le principali differenze tra gli approcci progressive enhancement e graceful degradation. x2
 - Descrivere tutte le tecniche/modalità/crismi, dal punto di vista della sicurezza, in modo che la trasmissione di dati sensibili dal browser al server sia "sicura".
-- 
+- Descrivere brevemente le metodologie di codifica dei caratteri nelle pagine Web
+- Definire personas e target users e spiegarne le differenze.
+- Illustrare le differenze, i vantaggi e gli svantaggi di fogli di stile esterni, interni e inline
+- Descrivere come è possibile scambiare i valori delle variabili tra Javascript e Php.
+- Descrivere brevemente il concetto di “cascata” nei fogli di stile e definire come si applica e come vengono gestiti eventuali conflitti con fogli di stile inline, fogli di stile interni e fogli di stile esterni.
+- Descrivere brevemente i passaggi e gli scambi di comunicazione che avvengono tra browser e server Web dal momento in cui viene digitato o cliccato un indirizzo Web al momento in cui la corrispondente pagina Web viene renderizzata dal browser.
+- Descrivere brevemente che cosa si intende per Personas e Scenarios nel contesto della User eXperience:
+- Descrivere brevemente che cosa si intende per Focus Group nel contesto della User eXperience:
+- Descrivere brevemente le principali differenze e analogie tra i solution stack LAMP e MEAN:
