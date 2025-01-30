@@ -6,16 +6,45 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="#" method="GET">
+    <form action="#" method="get">
+        <fieldset>
+            <label for="libri">Seleziona i libri che si vuole acquistare</label>
+            <select name="libri" id="libri" multiple>
+                <option value="Sistemi operativi. Concetti ed esempi, di Abraham Silberschatz et al.">
+                    Sistemi operativi. Concetti ed esempi, di Abraham Silberschatz et al.
+                </option>
+                <option value="Linguaggi di programmazione. Principi e paradigmi, di Maurizio Gabbrielli e Simone Martini">
+                    Linguaggi di programmazione. Principi e paradigmi, di Maurizio Gabbrielli e Simone Martini
+                </option>
+                <option value="I moderni sistemi operativi, di Andrew Tanenbaum">
+                    I moderni sistemi operativi, di Andrew Tanenbaum
+                </option>
+                <option value="Fondamenti di reti di calcolatori, di Andrew Tanenbaum">
+                    Fondamenti di reti di calcolatori, di Andrew Tanenbaum
+                </option>
+            </select>
+        </fieldset>
+        <fieldset>
+            <label for="type">Seleziona il tipo di copertina</label>
+            <select name="type" id="type">
+                <option value="copertina flessibile">
+                    copertina flessibile
+                </option>
+                <option value="copertina rigida">
+                    copertina rigida
+                </option>
+                <option value="formato elettronico">
+                    formato elettronico
+                </option>
+            </select>
+        </fieldset>
         <fieldset>
             
         </fieldset>
-        <fieldset>
-
-        </fieldset>
-        <fieldset>
-
-        </fieldset>
+        <label for="pagamento">pagamento alla consegna</label>
+        <input type="checkbox" name="pagamento" id="pagamento">
+        <input type="submit">
+        <input type="reset">
     </form>
 </body>
 </html>

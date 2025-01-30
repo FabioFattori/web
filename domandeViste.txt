@@ -11,3 +11,8 @@
 - Descrivere brevemente che cosa si intende per Personas e Scenarios nel contesto della User eXperience:
 - Descrivere brevemente che cosa si intende per Focus Group nel contesto della User eXperience:
 - Descrivere brevemente le principali differenze e analogie tra i solution stack LAMP e MEAN:
+- Descrivere cosa si intende in ambito Web con usabilità e cosa con accessibilità, sottolineando le differenze:
+- Descrivere le principali differenze tra usability e user experience:
+- Descrivere brevemente le metodologie di codifica dei colori nelle pagine Web e nei fogli di stile CSS:
+- Descrivere le principali differenze tra le WCAG 2.0 e i requisiti definiti nell’ambito della Legge Stanca (L. 4/2004): 
+- Dare una definizione di user experience e descrivere un caso di design centrato sull’utente.
